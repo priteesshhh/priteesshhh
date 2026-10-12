@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a **Forward Deployed Engineer** at **LakeFusion** who lives at the intersection of data engineering and enterprise AI deployment. I embed directly at client sites, own delivery end to end, and ship - no handoffs, no half-measures.
+I'm a **AI/ML** **Engineer** at **LakeFusion** who lives at the intersection of data engineering and enterprise AI deployment. I embed directly at client sites, own delivery end to end, and ship - no handoffs, no half-measures.
 
 UNT Alum. I love turning ideas into real systems that actually work in production.
 
